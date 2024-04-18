@@ -1,0 +1,16 @@
+*{
+    background-color: aqua;
+}
+.bg-yellow{
+    background-color: yellow;
+    color: brown;
+}
+#text{
+    font-size: 40px;
+    color: coral;
+}
+.bg-green{
+    font-size: 40px;
+    background-color: green;
+    color: lightcoral;
+}
